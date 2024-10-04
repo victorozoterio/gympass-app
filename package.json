@@ -12,6 +12,7 @@
   "author": "Victor Ozoterio",
   "license": "ISC",
   "devDependencies": {
+    "@rocketseat/eslint-config": "2.2.2",
     "@types/node": "22.7.4",
     "tsup": "8.3.0",
     "tsx": "4.19.1",
